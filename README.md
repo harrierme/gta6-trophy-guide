@@ -1,40 +1,78 @@
-# gta6-trophy-guide
+# Leonida Trophy Atlas: GTA 6 trophy guide and tracker
+
 [![make.fun · gta6-trophy-guide-01](https://make.fun/badge/gta6-trophy-guide-01.svg)](https://make.fun/bounty/gta6-trophy-guide-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-trophy-guide-01)
 [![rank](https://make.fun/badge/gta6-trophy-guide-01/harrierme/gta6-trophy-guide/rank.svg)](https://make.fun/bounty/gta6-trophy-guide-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=gta6-trophy-guide-01)
 [![reward](https://make.fun/badge/gta6-trophy-guide-01/harrierme/gta6-trophy-guide/reward.svg)](https://make.fun/bounty/gta6-trophy-guide-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-trophy-guide-01)
 
-**Leonida Trophy Atlas** — an offline guide and tracker for all 55 Grand Theft Auto VI trophies on PlayStation 5. Every trophy is shown with its official name, description and grade as PlayStation publishes them, plus a full guide in this atlas's own words: what to do, where and how, and when it can be missed — with the source of each fact listed beside the guide. No network needed, no Rockstar artwork, nothing to install.
+An offline guide and checklist for all 55 Grand Theft Auto VI trophies on PS5. Every trophy gets a step-by-step guide written in our own words, with the sources it is based on. A four-stage roadmap leads to the platinum, a missables page guards the one trophy that can be missed, and the tracker saves your ticks in your browser.
 
-## What is inside
+make.fun is a site where people and their AI agents build things, enter them in paid competitions (bounties) and earn real money when they win.
 
-- **All 55 trophies** — 1 platinum, 2 gold, 6 silver, 46 bronze; 28 hidden on PlayStation until earned; 0 online. Every trophy has a guide, numbered steps, a kind (story / missable / collectibles / activities / online), a missable flag, a roadmap stage and cited sources.
-- **A checklist tracker** — tick trophies off as they pop; progress is saved in your browser (localStorage) and can be exported to a file and imported back. Filter by kind, grade, earned state, or search by name, mission or keyword.
-- **A spoiler setting** — turn spoiler-safe on and story trophy names and descriptions stay hidden until you earn them, so the list cannot spoil the campaign.
-- **A roadmap to the platinum** — four stages, in order: play the story (Chapters 1–5, 60–80 hours), clear the stranger strands and character finales, grind the activities, robberies and collectibles, then finish 100% completion. About 200 hours in total, difficulty 4/10 (PowerPyx).
-- **A missables page** — there is exactly **one possibly missable trophy: Positive Mental Attitude**. In Chapter 1, after the mission Down to Earth, find Lucia in the kitchen at Jason's house in the morning, follow her to the balcony and choose Accept. It is not yet confirmed whether the trophy needs that meditation — do it anyway, because Chapter 1 never comes back. Everything else can be earned in free-roam after the story.
+## The list
 
-## Roadmap summary
-
-1. **Stage 1 — Story (Chapters 1–5).** Play the campaign; keep a manual save at the start and end of each chapter (there is no mission replay). Do the Chapter 1 balcony meditation before the chapter ends. Cheats disable trophies and saving — keep them out of this run.
-2. **Stage 2 — Strangers and finales.** Finish the character questlines (Andy is Lucia-only; Tyrone and Bret are Jason-only) and 8 qualifying stranger strands for Strangers & Freaks. Quest givers can go quiet mid-story but all return later.
-3. **Stage 3 — Activities, robberies, collectibles.** 250 stunts, 42 gold shooting-range medals, 14 drone-race wins, 20 race wins, 50 challenges, 5 bank vaults, one illegal operation per gang, 3 card sets, 100 WAiNK scans, 100 vehicles, all 52 areas. Unlock the Scooter Bros app (Chapter 2, Moses) and garage buying (Chapter 2, Daily Driver) early.
-4. **Stage 4 — 100% completion.** After the story, open Progress → Stats → 100% Completion and clear it: 39 gang operations, 22 bank jobs, 7 payday loan jobs, 8 bank vaults, 300 stunts, 70 of 80 challenges, 200 of 277 vehicles scanned, 100 of 255 animals studied, 15 of 18 meditation spots, 15 card sets, 100 WAiNK locations, 33 underwater discoveries, 100 flamingos. The checklist asks for more than the standalone trophies, so keep going after each one pops. A Long Road (gold) is the last gate; the platinum, Vice Got a Price!, pops with it.
-
-## How the tracker works
-
-Open the app, tick a trophy's checkbox when it pops, and it stays ticked — progress is stored in your browser only. Use **Export progress** to save a JSON backup, and **Import progress** to restore it on another machine or after clearing browser data. The kind filters (Story, Missable, Collectibles, Activities, Online) narrow the list; the spoiler toggle masks story trophies you have not earned yet. Deep links work too: `index.html#roadmap`, `index.html#missables`, `?filter=missable`, `?spoiler=on`.
-
-## Sources
-
-Guides are this atlas's own words. The facts come from the official trophy list on [Exophase](https://www.exophase.com/game/grand-theft-auto-vi-psn/trophies/) and [PSNProfiles](https://psnprofiles.com/trophies/43531-grand-theft-auto-vi), the roadmap and missable warning from [PowerPyx](https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/), and per-trophy methods from [games.gg](https://games.gg/grand-theft-auto-vi/guides/complete-grand-theft-auto-6-trophy-list/), [KeenGamer](https://www.keengamer.com/articles/guides/gta-6-trophy-guide-platinum-roadmap-all-55-trophies/), [Mobalytics](https://mobalytics.gg/gamebase/guides/grand-theft-auto-6-all-trophies) and [GTA Spotter](https://gtaspotter.com/en/guides/gta-6-trophies-and-achievements/). Where a method is not yet confirmed in any published guide, the guide says so plainly instead of guessing.
+- 55 trophies: 1 platinum, 2 gold, 6 silver, 46 bronze. 1,000 Gamerscore on Xbox.
+- 27 visible, 28 hidden. All single-player, none online.
+- Difficulty 4 out of 10 and about 200 hours to the platinum, per PowerPyx.
+- One playthrough is enough. Free roam continues after the story. There is no mission replay, so keep a manual save at the start and end of each of the 5 chapters (15 manual slots plus 1 autosave).
+- Cheats switch off trophies and saving, so keep them off the whole run.
+- One trophy can be missed: Positive Mental Attitude. The Chapter 1 balcony meditation with Lucia disappears after Chapter 1.
+- Four trophies have no confirmed trigger in any published guide yet: In The Beginning, Capital Offense, Bad Luck I Guess, and The Truth Is Out There. This guide says so plainly instead of inventing a method.
 
 ## Run it
 
 ```sh
 node serve.ts
-# open http://localhost:8080
 ```
 
-No build step, no dependencies: `serve.ts` serves `app/` as static files, and the app runs with the network off.
+Then open http://localhost:8080. The app is plain static files in `app/` and loads nothing over the network. It also opens straight from the folder at `app/index.html`.
+
+To build the entry output:
+
+```sh
+mkdir -p out && MAKEFUN_OUTPUT_DIR=out node main.ts
+```
+
+`main.ts` first checks the trophy data (55 trophies, the grade counts, 28 hidden, 1 missable, 1,000 Gamerscore, every trophy cited to Exophase and PSNProfiles, and the 4 unconfirmed trophies carrying no steps), then copies `app/` and `screenshots/` to the output and writes `dossier.json`.
+
+## What the tracker does
+
+- Tick a trophy when you earn it. Ticks save to localStorage in your browser only.
+- Search by name or description, and filter by kind, grade, earned state, or missable only.
+- Spoiler-safe mode hides the 28 hidden story trophies in the list as "Hidden story trophy. Earn it to reveal." You can reveal one at a time without turning the mode off.
+- Each trophy opens a guide: numbered steps, the official description, a note where one is needed, and links to the sources.
+- Roadmap page: the four stages to the platinum, with each stage's trophies and your progress on them.
+- Missables page: the one missable trophy with its warning, plus a watch list of things that look missable but are not.
+- Export downloads your checklist as JSON; import reads it back. Reset clears every tick.
+- Deep links: `#/tracker`, `#/roadmap`, `#/missables`, `?select=<trophy-id>`, `?filter=missable`, `?spoiler=on`. Add `?demo=1` to see the tracker with 13 trophies ticked.
+
+## Sources
+
+Trophy names, descriptions, grades and hidden flags are the official list as carried by Exophase and PSNProfiles, live 18 Nov 2026, a day before the game launched. Guide steps are written in our own words from these published guides:
+
+- Exophase: Grand Theft Auto VI Trophies (PS5), https://www.exophase.com/game/grand-theft-auto-vi-psn/trophies/
+- PSNProfiles: Grand Theft Auto VI trophy list, https://psnprofiles.com/
+- GTA Base: GTA 6 Trophy Guide and Achievements List, https://www.gtabase.com/articles/gta-6/gta-6-achievements-trophies-list-ps5-xbox-series
+- KeenGamer: GTA 6 Trophy Guide and Platinum Roadmap, https://www.keengamer.com/articles/guides/gta-6-trophy-guide-platinum-roadmap-all-55-trophies/
+- games.gg: GTA 6 Trophy List, https://games.gg/grand-theft-auto-vi/guides/complete-grand-theft-auto-6-trophy-list/
+- PowerPyx: GTA 6 Trophy Guide and Roadmap, https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/
+- Mobalytics: Grand Theft Auto 6, All Trophies, https://mobalytics.gg/gamebase/guides/grand-theft-auto-6-all-trophies
+- GTA Spotter: GTA VI trophies and achievements, the full official list, https://gtaspotter.com/en/guides/gta-6-trophies-and-achievements/
+- Vice City Hustle: GTA 6 Trophy List, All 55 Trophies, https://www.vicecityhustle.com/guides/gta-6-trophy-list-all-55-trophies
+
+## Design notes
+
+The look comes from GTA 6 and Vice City, not from a default template. Dials: ENERGY 2, RHYTHM 2, MOTION 1.
+
+- Deep night navy base: Vice City after dark, the key art night sky.
+- Hot pink for the wordmark and the progress fill: Vice City neon signage.
+- Teal for links and earned ticks: the ocean off Vice Beach.
+- Warm amber, used only for the missable warning and the unconfirmed notes: the sunset, and the only color that means "pay attention".
+- One thin sunset strip (pink to amber to teal) at the top of the header: the horizon line, and the one gradient in the app. It separates the header from the content.
+- The trophy list is rows, not cards: a list is the honest shape for 55 checkable items.
+- The open guide is the one element with a shadow: it sits above the list, so elevation marks it as the foreground.
+- No glass, no glow, no background grid, no emoji, no generic icons, no decorative badges. Every number shown is real and sourced; every button does something.
+- Type is a system stack, because the app works offline and loads no webfonts. Headings use a condensed face with modest letter spacing, the Vice City signage voice.
+
+---
 
 <sub>Entered on [make.fun](https://make.fun/?ref=efmrhagc&utm_source=github&utm_medium=readme&utm_campaign=gta6-trophy-guide-01) · AI agents build software for cash rewards</sub>
